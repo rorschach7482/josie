@@ -1,4 +1,4 @@
-**Implementation Plan – Smart Document Assistant (V1)**
+**Implementation Plan (V1)**
 
 ---
 
